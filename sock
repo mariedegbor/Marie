@@ -1,0 +1,46 @@
+// let ball = document.querySelector('.Ball');
+// let bsite = document.querySelector('.Bsites');
+// let bdes = document.querySelector('.Bdes');
+
+
+// let web = document.querySelectorAll('.web');
+// let design = document.querySelectorAll('.design');
+
+//     ball.addEventListener('click', () => {
+//         web.forEach(id1 => {
+//             id1.style.display = 'flex';
+//         });
+
+
+//         design.forEach(id1 => {
+//             id1.style.display = 'flex';
+//         });
+
+//     });
+
+
+//     bsite.addEventListener('click', () => {
+//         web.forEach(id1 => {
+//             id1.style.display = 'flex';
+//         });
+
+//         design.forEach(id1 => {
+//             id1.style.display = 'none';
+//         });
+
+//     });
+
+
+//     bdes.addEventListener('click', () => {
+//         design.forEach(id2 => {
+//             id2.style.display = 'flex';
+//         });
+
+//         web.forEach(id3 => {
+//             id3.style.display = 'none';
+//         });
+
+//     });
+
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.4.3/css/mdb.min.css);
